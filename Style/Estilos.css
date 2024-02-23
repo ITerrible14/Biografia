@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(217, 81%, 48%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #ffff4d;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: hsl(60, 100%, 70%);
+    font-size: 200%;
+}
+
+h3 {
+    color: hsl(0, 0%, 83%);
+    font-size: 130%;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    color: hsl(209, 100%, 90%);
+    font-style: oblique;
+}
+
+strong {
+    color: hsl(0, 97%, 79%)
+}
+.contenedor{
+    display: flex
+}
